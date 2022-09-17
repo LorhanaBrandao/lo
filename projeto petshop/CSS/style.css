@@ -1,0 +1,40 @@
+.header{
+    background-color: grey;
+    color: yellow
+    text-align: left;
+    width: 60%;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+
+
+}
+
+.mainav{
+    background-color: olive;
+    color: white;
+    text-align: right;
+    width: 40%;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    text-decoration: none;
+}
+.mainav li{
+    text-decoration: ;
+}
+body{
+    background-image:;
+}
+.content{
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    
+}
+
+
+
+
+
